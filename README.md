@@ -1,4 +1,4 @@
-# Jumpscale X
+# JumpscaleX
 Jumpscale X is the 10th version of Jumpscale, a Python framework that is used to host 3bots. The platform is scalable and self healing. More information can be found at the website of our [partner, Threefold](https://www.threefold.tech/).
 
 # Getting started
